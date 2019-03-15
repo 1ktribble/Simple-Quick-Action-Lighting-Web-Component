@@ -1,0 +1,7 @@
+**/__MACOSX
+**/.DS_Store
+**/.eslintrc.json
+**/jsconfig.json
+.sfdx
+.vscode
+src-solutions*
