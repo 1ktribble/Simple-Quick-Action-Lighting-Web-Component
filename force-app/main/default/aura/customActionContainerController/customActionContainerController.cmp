@@ -1,0 +1,3 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:hasSObjectName,force:hasRecordId,force:lightningQuickActionWithoutHeader">    
+    <c:simpleLWCForQuickAction onclosemodal="{!c.modalClose}"/>
+</aura:component>

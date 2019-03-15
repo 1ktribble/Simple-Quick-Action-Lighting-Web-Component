@@ -1,0 +1,6 @@
+<aura:documentation>
+	<aura:description>Documentation</aura:description>
+	<aura:example name="lwcContainer" ref="lwcContainerForActions" label="Description">
+		Container for holding Lightning Web Components and displaying them in Custom Actions on Record Pages
+	</aura:example>
+</aura:documentation>
